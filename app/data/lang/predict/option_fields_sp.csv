@@ -1,0 +1,27 @@
+label,field
+Todas,all
+Codigo,cod_id
+Genero, gender
+Codigo del nombre,cod_name
+Programa,program
+Codigo SNIES,cod_snies
+Periodo,period
+Ano,year
+Semestre,semester
+Ciudad,city
+Ciudad del colegio,school_city
+Estrato social,stratum
+Estado civil,civil_status
+Adad,age
+Zona de residencia,residence_zone
+Extranjero,foreign
+Nombre del colegio,school_name
+Calendario escolar,school_calendar
+School character,school_character
+Idioma del colegio,school_language
+Metodologia del colegio,school_methodology
+Fecha del grado,degree_date
+Ayuda académica,academic_aid
+Ayuda financiera,financial_aid
+Otra ayuda,other_aid
+Estudia y trabaja,study_and_work

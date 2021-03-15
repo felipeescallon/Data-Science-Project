@@ -1,0 +1,27 @@
+label,field
+All,all
+Code,cod_id
+Gender, gender
+Code name,cod_name
+Program,program
+Code SNIES,cod_snies
+Period,period
+Year,year
+Semester,semester
+City,city
+School city,school_city
+Stratum,stratum
+Civil Status,civil_status
+Age,age
+Residence zone,residence_zone
+Foreign,foreign
+School name,school_name
+School calendar,school_calendar
+School character,school_character
+School language,school_language
+Cchool Methodology,school_methodology
+Degree date,degree_date
+Academic aid,academic_aid
+Financial aid,financial_aid
+Other aid,other_aid
+Study and work,study_and_work
