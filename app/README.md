@@ -50,7 +50,7 @@ Kyaagba. S. (2018, Jul 26), Integrating Folium with Dash. Available at: https://
 
 Manrique, L.F. (2020, May 4). Crisis en las universidades: el amor por la marca más allá del marketing. Available at: https://revistapym.com.co/mercadeo/crisis-en-las-universidades-el-amor-por-la-marca-mas-alla-del-marketing 
 
-Ministerio de Educación Nacional. (2020). Estadísticas de matrícula en educación superior 2019 y percepción sobre el impacto del Covid 19 en 2020. Available at: https://snies.mineducacion.gov.co/portal/401926: 
+Ministerio de Educación Nacional. (2020). Estadísticas de matrícula en educación superior 2019 y percepción sobre el impacto del Covid 19 en 2020. Available at: https://snies.mineducacion.gov.co/portal/401926:/ 
 
 Unesco. (2020, May 13). COVID-19 y educación superior: De los efectos inmediatos al día después. Análisis de impactos, respuestas políticas y recomendaciones. Available at: http://www.iesalc.unesco.org/wp-content/uploads/2020/05/COVID-19-ES-130520.pdf 
 
