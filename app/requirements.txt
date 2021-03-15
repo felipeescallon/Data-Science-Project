@@ -1,0 +1,8 @@
+psycopg2-binary
+dash
+plotly
+pandas
+dash_bootstrap_components
+scikit-learn
+folium
+numpy
