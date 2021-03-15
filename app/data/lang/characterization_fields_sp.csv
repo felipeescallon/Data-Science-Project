@@ -1,0 +1,48 @@
+campo,emoji,sp,en
+academic_aid_no,❌📚,No tiene ayuda académica,Has no academic aid
+age_range_rango_1,👦,Menor de 18 años,Under 18 years old
+age_range_rango_2,🧑,De 18 a 20 años,From 18 to 20 years old
+age_range_rango_3,🧔,De 21 a 25 años,From 21 to 25 years
+city_cali,🇺🇿,Ciudad Cali,Ciudad Cali
+civil_status_soltero,🕺,Soltero,Single
+enrolled_False,👎,No se Matriculó,Not Enrolled
+enrolled_True,👍,Se Matriculó,Enrolled
+faculty_facultad de ciencias administrativas,👨‍💼,De la Facultad de ciencias administrativas,Faculty of Administrative Sciences
+faculty_facultad de comunicacion y ciencias sociales,🗣️,De la Facultad de comunicación y ciencias sociales,Faculty of Communication and Social Sciences
+faculty_facultad de humanidades y artes,🧑‍🎤,De la Facultad de humanidades y artes,Faculty of Humanities and Arts
+faculty_facultad de ingenieria,🧑‍💻,De la Facultad de ingeniería,Faculty of Engineering
+financial_aid_no,❌💰,No tiene ayuda financiera,No financial assistance
+financial_aid_si,💰,Tiene ayuda financiera,Have financial aid
+foreign_no,🇨🇴,Es Colombiano,Colombian
+gender_F,🚺,Mujer,Woman
+gender_M,🚹,Hombre,Man
+knowledge_area_bellas artes,🎭,Área de conocimiento - Bellas artes,Knowledge area - Fine arts
+knowledge_area_ciencias sociales y humanas,👨‍👩‍👧‍👦,Área de conocimiento - Ciencias sociales y humanas,Knowledge area - Social and human sciences
+knowledge_area_economia administracion contaduria y afines,💱,Área de conocimiento - Economia administracion contaduria y afines,Knowledge area - Economics; accounting; administration and related
+knowledge_area_ingenieria arquitectura urbanismo y afines,🏗️,Área de conocimiento - Ingeniería arquitectura urbanismo y afines,Engineering architecture urban planning and related
+other_aid_no,❌💰,No recibe ayudas(diferente a las financieras),Does not receive aid (other than financial)
+program_administracion de empresas,📊,En administración de empresas,In Business Administration
+program_comunicacion social periodismo,📰,En Comunicación social periodismo,In social communication journalism
+program_ingenieria biomedica,🔬,En Ingeniería biomédica,In Biomedical Engineering
+program_ingenieria industrial,⚙️,En Ingeniería industrial,In Industrial Engineering
+program_ingenieria mecanica,🔧,En Ingeniería mecanica,In mechanical engineering
+program_ingenieria mecatronica,🦾,En Ingeniería mecatronica,In Mechatronic Engineering
+program_ingenieria multimedia,🎼,En Ingeniería multimedia,In Multimedia Engineering
+program_mercadeo y negocios internacionales,🌐,En Mercadeo y negocios internacionales,In Marketing and international business
+residence_zone_urbana,🏙️,Vive en la zona urbana,Live in the urban area
+school_calendar_a,🅰️,Del Calendario A,Calendar A
+school_calendar_b,🅱️,Del Calendario B,Calendar B
+school_character_mixto,👫,De colegio Mixto,Mixed school
+school_city_cali,🇺🇿,Colegio en la ciudad de Cali,School in the city of Cali
+school_spanish_espanol,🇪🇸,Colegio no maneja idiomas,School does not handle languages
+school_spanish_others,🉐,Colegio enseña otros idiomas,School teaches other languages
+school_state_valle del cauca,▀▀,Colegio en el Valle del Cauca,College in Valle del Cauca
+semester_1,⏳,Se inscribió en el primer semestre,Enrolled in the first semester
+semester_2,⌛,Se inscribió en el segundo semestre,Enrolled in the second semester
+shift_diurna,🌞,Jornada diurna,Day shift
+shift_nocturna,🌘,Jornada nocturna,Night shift
+stratum_1,1💵,Registró Estrato social 1,Registered Social Stratum 1
+stratum_2,2💵,Registró Estrato social 2,Registered Social Stratum 2
+stratum_3,3💵,Registró Estrato social 3,Registered Social Stratum 3
+stratum_4,4💵,Registró Estrato social 4,Registered Social Stratum 4
+study_and_work_no,😐,No trabaja y no estudia,No trabaja y no estudia
