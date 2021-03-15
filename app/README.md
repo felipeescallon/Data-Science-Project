@@ -28,7 +28,7 @@ from AWS RDS.
 
 # Dash application 
 
-The scripts `index_h.py`, `index_ec2.py` can be used to run the app.
+The scripts `index_h.py` or `index_ec2.py` can be used to run the app.
 
 
 # Links for Dash
