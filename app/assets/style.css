@@ -1,0 +1,125 @@
+body{
+    /* padding-top: 75px; */
+    background-color: whitesmoke;
+    font-size: large;
+}
+
+
+#horizontal_layout .content{
+    padding-top: 75px;
+}
+
+.my_navlink{
+    list-style-type: none;
+}
+/* .my-navbar{
+    background-color:firebrick;
+} */
+
+.navbar {
+  background-color:firebrick;
+  box-shadow: 2px 2px 5px #000;
+  opacity: 0.9;
+}
+  
+.navbar .nav-item .nav-link {
+  color: #fff;
+}
+
+.img_contact{
+    width: 75%;
+    /*height: 100px;*/
+    margin: 15px;
+    padding: 2px;
+    box-shadow: 0 0 0 6px rgba(64, 64, 64, 0.5);
+}
+
+#img-brand{
+  width: 256px;
+}
+
+#izquierdo {
+    background-color:firebrick;
+}
+
+#titulo_university_demand {
+    color: firebrick;
+}
+
+#titulo_visualization_map {
+    color: firebrick;
+}
+
+#titulo_visualization {
+    color: firebrick;
+}
+
+
+#titulo_segmentation {
+    color: firebrick;
+}
+
+
+#titulo_prediction {
+    color: firebrick;
+}
+
+
+#titulo_characterization {
+    color: firebrick;
+}
+
+#titulo_team {
+    color: firebrick;
+}
+
+
+#izquierdo1 .nav li a{
+    color: white;
+}
+
+#izquierdo .nav-link {
+    color: rgba(255, 255, 255, 0.70);
+}
+
+#izquierdo .nav-link:hover, #izquierdo .nav-link:focus {
+    color: rgba(255, 255, 255, 0.85);
+}
+  
+#izquierdo .nav-link.disabled {
+    color: rgba(255, 255, 255, 0.25);
+}
+  
+#izquierdo .show > .nav-link,
+#izquierdo .active > .nav-link,
+#izquierdo .nav-link.show,
+#izquierdo .nav-link.active {
+    color: #fff;
+}
+
+
+
+
+
+#izquierdo1 ul li{
+    padding-left: 15px;
+}
+
+#izquierdo1 ul li a{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+#izquierdo1 ul li a:hover, #izquierdo1 ul li a:active{
+    text-decoration: underline;
+    background-color: rgb(136, 25, 25);
+}
+
+#izquierdo1 ul li{
+    list-style-type: none;
+}
+
+
+  

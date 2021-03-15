@@ -1,0 +1,3 @@
+function activateHomeContent(){
+    alert('Hola');
+}
