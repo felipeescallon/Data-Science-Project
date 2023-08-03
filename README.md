@@ -10,11 +10,11 @@ It is a pleasure for me to have been part of the Team-18 that turned out to be a
 
 - UAO Stats video presentation: https://lnkd.in/eSQk5SV
 
-- GitHub: https://github.com/felipeescallon?tab=projects
+- GitHub: https://github.com/felipeescallon?tab=projects&type=classic
 
 - App available and running on AWS EC2 at: http://18.217.133.231:8050/
 
 
 *See my credential at: https://www.credential.net/a36936cf-77d0-43ec-95d5-7a47610d8e7c
 
-#MinTIC #CorrelationOne #CientíficosDeDatosMinTIC #Winner #Best #Award
+#MinTIC #CorrelationOne #CientíficosDeDatosMinTIC #Winner #Best #Award # UAO
